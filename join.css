@@ -1,0 +1,32 @@
+body {
+  /* background-color: rgb(60, 117, 54);*/
+  background-color: rgb(25, 132, 120);
+}
+.form {
+  padding: 4%;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-bottom: 10%;
+  background-color: #fff;
+  border-radius: 12px;
+  color: #070707;
+}
+h2 {
+  text-align: center;
+}
+legend {
+  text-align: center;
+}
+label {
+  margin-left: 5%;
+}
+input {
+  margin-left: 5%;
+}
+input radio {
+  margin-left: 5%;
+}
+textarea {
+  margin-left: 5%;
+}
